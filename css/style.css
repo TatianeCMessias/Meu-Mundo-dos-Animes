@@ -11,7 +11,7 @@ html {
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: #fff7fb;
-  color: #35273c;
+  color: #36293d;
   line-height: 1.6;
 }
 
@@ -41,7 +41,7 @@ ul {
 
 .cabecalho {
   background-color: #ffffff;
-  border-bottom: 2px solid #f5cfe5;
+  border-bottom: 2px solid #f4c9e2;
   padding: 20px 0;
 }
 
@@ -53,7 +53,7 @@ ul {
 }
 
 .logo {
-  color: #db4b91;
+  color: #e05598;
   font-size: 1.7rem;
 }
 
@@ -64,7 +64,7 @@ ul {
 }
 
 .menu a {
-  color: #5b3b63;
+  color: #5b3d63;
   font-weight: bold;
   transition: 0.3s;
 }
