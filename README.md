@@ -70,8 +70,7 @@ Durante o desenvolvimento, foram aplicadas algumas práticas de acessibilidade, 
 
 O projeto foi publicado utilizando o GitHub Pages.
 
-- Acesse o projeto:
-[https://tatianecmessias.github.io/Meu-Mundo-dos-Animes/]
+- [Acesse o projeto pelo github pages](https://tatianecmessias.github.io/Meu-Mundo-dos-Animes/)
 
 ## Como executar o projeto
 - Clone o repositório
